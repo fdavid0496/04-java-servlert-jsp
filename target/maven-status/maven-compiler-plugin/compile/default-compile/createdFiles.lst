@@ -1,0 +1,6 @@
+co\edu\unicauca\lab4_mvc_paises\resources\JakartaEE11Resource.class
+co\edu\unicauca\lab4_mvc_paises\modelo\clsPaisDAO.class
+co\edu\unicauca\lab4_mvc_paises\controlador\clsControlador.class
+co\edu\unicauca\lab4_mvc_paises\modelo\clsConexion.class
+co\edu\unicauca\lab4_mvc_paises\modelo\clsPais.class
+co\edu\unicauca\lab4_mvc_paises\JakartaRestConfiguration.class
